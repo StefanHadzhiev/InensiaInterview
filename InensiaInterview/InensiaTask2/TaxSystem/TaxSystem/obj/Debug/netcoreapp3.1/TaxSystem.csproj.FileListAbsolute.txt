@@ -1,0 +1,14 @@
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\bin\Debug\netcoreapp3.1\TaxSystem.exe
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\bin\Debug\netcoreapp3.1\TaxSystem.deps.json
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\bin\Debug\netcoreapp3.1\TaxSystem.runtimeconfig.json
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\bin\Debug\netcoreapp3.1\TaxSystem.runtimeconfig.dev.json
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\bin\Debug\netcoreapp3.1\TaxSystem.dll
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\bin\Debug\netcoreapp3.1\TaxSystem.pdb
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\obj\Debug\netcoreapp3.1\TaxSystem.csproj.AssemblyReference.cache
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\obj\Debug\netcoreapp3.1\TaxSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\obj\Debug\netcoreapp3.1\TaxSystem.AssemblyInfoInputs.cache
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\obj\Debug\netcoreapp3.1\TaxSystem.AssemblyInfo.cs
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\obj\Debug\netcoreapp3.1\TaxSystem.csproj.CoreCompileInputs.cache
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\obj\Debug\netcoreapp3.1\TaxSystem.dll
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\obj\Debug\netcoreapp3.1\TaxSystem.pdb
+D:\Docs\Programming\Zadachi\InensiaInterview\InensiaTask2\TaxSystem\TaxSystem\obj\Debug\netcoreapp3.1\TaxSystem.genruntimeconfig.cache

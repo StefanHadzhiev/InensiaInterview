@@ -1,0 +1,16 @@
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\bin\Debug\netcoreapp3.1\Inensia.exe
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\bin\Debug\netcoreapp3.1\Inensia.deps.json
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\bin\Debug\netcoreapp3.1\Inensia.runtimeconfig.json
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\bin\Debug\netcoreapp3.1\Inensia.runtimeconfig.dev.json
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\bin\Debug\netcoreapp3.1\Inensia.dll
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\bin\Debug\netcoreapp3.1\Inensia.pdb
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\obj\Debug\netcoreapp3.1\Inensia.csproj.AssemblyReference.cache
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\obj\Debug\netcoreapp3.1\Inensia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\obj\Debug\netcoreapp3.1\Inensia.AssemblyInfoInputs.cache
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\obj\Debug\netcoreapp3.1\Inensia.AssemblyInfo.cs
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\obj\Debug\netcoreapp3.1\Inensia.csproj.CoreCompileInputs.cache
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\obj\Debug\netcoreapp3.1\Inensia.csproj.CopyComplete
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\obj\Debug\netcoreapp3.1\Inensia.dll
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\obj\Debug\netcoreapp3.1\Inensia.pdb
+D:\Docs\Programming\Zadachi\InensiaInterview\Inensia\Inensia\obj\Debug\netcoreapp3.1\Inensia.genruntimeconfig.cache
